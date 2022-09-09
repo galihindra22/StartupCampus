@@ -1,4 +1,7 @@
 from math_function import add
+import div
+import mul
+
 
 
 def main():
